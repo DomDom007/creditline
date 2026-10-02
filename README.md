@@ -1,9 +1,9 @@
-# Creditline
+﻿# Creditline
 
 > **Shows who gets named in notes and chat for the work versus who actually did it.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://mokhless2.github.io/creditline/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://domdom007.github.io/creditline/)
 [![Zero Server](https://img.shields.io/badge/Data%20Privacy-100%25%20Local-blue)](#privacy--architecture)
 
 **Creditline** is an open-source, client-side web utility designed specifically for **People managers**. It solves a focused problem with zero friction: no login, no database, no recurring fees, and no data tracking.
@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Live Demo
-**Try it online now:** [https://mokhless2.github.io/creditline/](https://mokhless2.github.io/creditline/)
+**Try it online now:** [https://domdom007.github.io/creditline/](https://domdom007.github.io/creditline/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mokhless2/creditline.git
+git clone https://github.com/domdom007/creditline.git
 cd creditline
 
 # 2. Install dependencies
@@ -80,4 +80,4 @@ Contributions, bug reports, and suggestions are welcome!
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
-Developed by [Mokhles Ben Moallem](https://github.com/mokhless2) • [Meta Creative Tunisia](https://metatunisie.com)
+Developed by [Mokhles Ben Moallem](https://github.com/domdom007) • [Meta Creative Tunisia](https://metatunisie.com)
